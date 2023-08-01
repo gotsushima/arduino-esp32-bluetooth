@@ -1,9 +1,10 @@
-# M5Stack Atom Lite program for bluetooth remote control
+# M5Stack Atom Lite Program for Bluetooth Remote Control
 
-This is a M5Stack Atom Lite program for bluetooth remote control from Flutter IOS/Android app for [T'z products watch winder](https://tzproducts.jp/).
+This repository contains the code for a M5Stack Atom Lite program used in the [T'z Products Watch Winder](https://tzproducts.jp/).
+The watch winder can be remotely controlled from a Flutter iOS/Android app using Bluetooth.
 
-Currently under development.
+Please note that this project is currently under development.
 
 ## Technologies Used
 
-PlatformIO
+- PlatformIO
